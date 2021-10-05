@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-with-css-flexbox-rWLRHTi-b](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-css-flexbox-rWLRHTi-b)
 - Live Site URL: [https://rafo38kh.github.io/stats-preview-card-component/](https://rafo38kh.github.io/stats-preview-card-component/)
 
 ## My process
