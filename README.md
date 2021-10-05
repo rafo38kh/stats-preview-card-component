@@ -41,5 +41,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@rafo38kh](https://www.frontendmentor.io/profile/rafo38kh)
-- Website - [@rafo38kh](https://github.com/rafo38kh)
+- GitHub - [@rafo38kh](https://github.com/rafo38kh)
 - Codewars - [@rafo38kh](https://www.codewars.com/users/rafo38kh)
